@@ -1,6 +1,6 @@
 I'm a CS student at the University of Maryland
 
-Currently building collaborative OSINT agent tools at Visa
+Currently building collaborative agentic tools at Visa
 
 Besides CS, I love fashion, the gym, cars, and listening to music
 
