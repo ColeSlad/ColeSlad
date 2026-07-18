@@ -1,6 +1,6 @@
 I'm a CS student at the University of Maryland
 
-Currently building collaborative agentic tools at Visa
+Currently building collaborative agentic tools at Visa for fraud detection
 
 Besides CS, I love fashion, the gym, cars, and listening to music
 
